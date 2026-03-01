@@ -64,6 +64,7 @@ Even with a simple demo video, the system demonstrates how unstructured visual d
 
 # How to Run
 `pip install ultralytics opencv-python imageio`
+
 `python detect_video.py`
 
 # Outputs:
