@@ -35,6 +35,8 @@ Even with a simple demo video, the system demonstrates how unstructured visual d
 # Demo Output:
 <img width="356" height="318" alt="image" src="https://github.com/user-attachments/assets/446fc273-cc75-4508-afbb-395a8c9db054" />
 
+*Privacy notice: Faces and sensitive content in the demo video have been blurred.*
+
 # Key Observations
 
 - YOLOv8 performs well on general object detection without task-specific training.
