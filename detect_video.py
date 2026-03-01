@@ -78,6 +78,6 @@ out.release()
 # Save GIF
 imageio.mimsave("demo.gif", frames_for_gif, fps=8)
 
-print("✅ Detection complete!")
-print("📹 Saved: output.mp4")
-print("🖼️ Saved: demo.gif")
+print("Detection complete!")
+print("Saved: output.mp4")
+print("Saved: demo.gif")
