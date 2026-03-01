@@ -8,7 +8,7 @@ From a machine learning engineer’s perspective, the key challenge is not model
 
 This project simulates that pipeline using a self-recorded video purely as a technical proof of concept.
 
-The Python script used to process the video and perform object detection can be found here: [`[detect_video.py](https://github.com/veelvili-tech/AI-Powered-Video-Object-Detection-for-Retail-Intelligence/blob/main/detect_video.py)`](detect_video.py).
+The Python script used to process the video and perform object detection can be found here: [detect_video.py](https://github.com/veelvili-tech/AI-Powered-Video-Object-Detection-for-Retail-Intelligence/blob/main/detect_video.py) 
 
 # Business Use Cases
 Although a personal video is used for demonstration, the same pipeline can be applied to real retail environments for:
