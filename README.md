@@ -33,6 +33,7 @@ This project shows that pretrained object detection models can be integrated int
 Even with a simple demo video, the system demonstrates how unstructured visual data can be transformed into machine-readable signals suitable for business analytics.
 
 # Demo Output:
+<img width="356" height="318" alt="image" src="https://github.com/user-attachments/assets/446fc273-cc75-4508-afbb-395a8c9db054" />
 
 # Key Observations
 
