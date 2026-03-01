@@ -7,6 +7,7 @@ Retail and physical-space businesses increasingly rely on video analytics to imp
 From a machine learning engineer’s perspective, the key challenge is not model training, but reliably converting raw video streams into structured outputs that can support business decisions.
 
 This project simulates that pipeline using a self-recorded video purely as a technical proof of concept.
+
 The Python script used to process the video and perform object detection can be found here: [`detect_video.py`](detect_video.py).
 
 # Business Use Cases
